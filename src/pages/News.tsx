@@ -1,6 +1,9 @@
+import { CardNews } from "../components/components/CardNews"
 
 export const News = () => {
   return (
-    <div>News</div>
+    <div>
+      <CardNews/>    
+    </div>
   )
 }

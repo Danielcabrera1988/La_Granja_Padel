@@ -1,0 +1,5 @@
+export * from './About.tsx'
+export * from './Home.tsx'
+export * from './Schedule.tsx'
+export * from './News.tsx'
+export * from './routes/PagesRoutes.tsx'

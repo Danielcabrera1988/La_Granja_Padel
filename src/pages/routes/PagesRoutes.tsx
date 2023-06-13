@@ -1,6 +1,6 @@
 import { Routes, Route, Navigate } from 'react-router-dom'
-import { Home, About, News, Schedule } from '..'
 import { NavBar } from '../../components/NavBar'
+import { About, Home, News, Schedule } from '..'
 export const PagesRoutes = () => {
     return (
         <>
@@ -14,7 +14,6 @@ export const PagesRoutes = () => {
                     <Route path='/*' element={<Navigate to={'home'} />} />
                 </Routes>
             </div>
-
         </>
     )
 }

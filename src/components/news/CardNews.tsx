@@ -1,4 +1,4 @@
-import img_fap1 from '../../../assets/images/fap1.jpg'
+import img_fap1 from '../../assets/images/fap1.jpg'
 export const CardNews = () => {
     return (
         <div className="card" style={{ width: "18rem" }}>

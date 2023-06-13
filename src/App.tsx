@@ -3,7 +3,7 @@ import { PagesRoutes } from "./pages"
 
 function App() {
   return (
-    <>
+    <> 
       <PagesRoutes/>
       <Footer/>
     </>

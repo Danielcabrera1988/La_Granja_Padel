@@ -1,6 +1,6 @@
 import { Routes, Route, Navigate } from 'react-router-dom'
-import { NavBar } from '../../components/NavBar'
-import { About, Home, News, Schedule } from '..'
+import { NavBar } from '../components/NavBar'
+import { About, Home, News, Schedule } from '../pages'
 export const PagesRoutes = () => {
     return (
         <>

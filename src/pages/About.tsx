@@ -1,4 +1,4 @@
-import { CarrouselImages } from "./components/CarrouselImages"
+import { CarrouselImages } from "../components/about/CarrouselImages"
 
 export const About = () => {
   return (

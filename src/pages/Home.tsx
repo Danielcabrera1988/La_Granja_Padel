@@ -1,5 +1,5 @@
-import clasificatorio from '../../assets/images/clasificatorio_nacionales_fap.jpg'
-import { Card } from './components/Card'
+import clasificatorio from '../assets/images/clasificatorio_nacionales_fap.jpg'
+import { Card } from '../components/home/Card'
 export const Home = () => {
   return (
     <div className='animate__animated animate__slideInLeft'>

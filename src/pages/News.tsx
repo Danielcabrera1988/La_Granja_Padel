@@ -1,4 +1,4 @@
-import { CardNews } from "./components/CardNews"
+import { CardNews } from "../components/news/CardNews"
 
 export const News = () => {
   return (

@@ -6,7 +6,7 @@ export const CardNews = () => {
             <div className="card-body">
                 <h5 className="card-title">Primera Delegación de La Federación Argentina de Pádel FAP.</h5>
                 <p className="card-text">Chaco respira pádel</p>
-                <a href="https://www.facebook.com/photo/?fbid=266111132481733&set=a.192217469871100" className="btn btn-primary">Go somewhere</a>
+                <a href="https://www.facebook.com/profile.php?id=100012789878656" className="btn btn-primary" target='_blank'>Ver mas...</a>
                 {/* en este ancord seleccionar el post del face que lleve al evento realizado */}
             </div>
         </div>
